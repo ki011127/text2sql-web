@@ -1,0 +1,7 @@
+.idea
+.DS_Store
+./Text2SQL/dataset/AI_HUB/database/
+./Text2SQL/dataset/AI_HUB/train.json
+./Text2SQL/dataset/spider/
+./Text2SQL/third_party/
+./Text2SQL/dataset/AI_HUB/enc/*.jsonl
